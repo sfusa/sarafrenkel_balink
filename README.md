@@ -1,6 +1,7 @@
 # sarafrenkel_balink
 
 api endpoints:
+
 // persons
 get https://us-central1-fir-api-39260.cloudfunctions.net/api/person/id#
 post https://us-central1-fir-api-39260.cloudfunctions.net/api/person/ (using body)
@@ -17,6 +18,7 @@ post https://us-central1-fir-api-39260.cloudfunctions.net/api/membership/personI
 
 
 data ids for testing endpoints:
+
 // persons
 20gqV4G3wXVt8cMdMpS2
 CnixcoN6nIdzVpAF0Wx7
